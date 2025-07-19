@@ -3,6 +3,7 @@ from circleshape import CircleShape
 from constants import *
 from shot import Shot
 
+
 class Player(CircleShape):
 
     def __init__(self, x, y):
